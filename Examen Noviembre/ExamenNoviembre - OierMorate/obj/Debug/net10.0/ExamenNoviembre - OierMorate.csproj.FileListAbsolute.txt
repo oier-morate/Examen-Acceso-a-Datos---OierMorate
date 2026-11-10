@@ -1,0 +1,14 @@
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\bin\Debug\net10.0\ExamenNoviembre - OierMorate.exe
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\bin\Debug\net10.0\ExamenNoviembre - OierMorate.deps.json
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\bin\Debug\net10.0\ExamenNoviembre - OierMorate.runtimeconfig.json
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\bin\Debug\net10.0\ExamenNoviembre - OierMorate.dll
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\bin\Debug\net10.0\ExamenNoviembre - OierMorate.pdb
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\obj\Debug\net10.0\ExamenNoviembre - OierMorate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\obj\Debug\net10.0\ExamenNoviembre - OierMorate.AssemblyInfoInputs.cache
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\obj\Debug\net10.0\ExamenNoviembre - OierMorate.AssemblyInfo.cs
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\obj\Debug\net10.0\ExamenNoviembre - OierMorate.csproj.CoreCompileInputs.cache
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\obj\Debug\net10.0\ExamenNoviembre - OierMorate.dll
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\obj\Debug\net10.0\refint\ExamenNoviembre - OierMorate.dll
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\obj\Debug\net10.0\ExamenNoviembre - OierMorate.pdb
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\obj\Debug\net10.0\ExamenNoviembre - OierMorate.genruntimeconfig.cache
+C:\Users\Oier\Desktop\Somo\2. curso\Acceso a datos\Examen Noviembre\ExamenNoviembre - OierMorate\obj\Debug\net10.0\ref\ExamenNoviembre - OierMorate.dll
